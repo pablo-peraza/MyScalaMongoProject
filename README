@@ -1,0 +1,29 @@
+Introduction to combining Scala and MongoDB
+
+What you will learn:
+
+To assemble a new scala project using SBT
+How to install and run a MongoDB server
+The basics of Casbah: the scala-mongodb driver
+The basics of Salat: a framework that facilitates the serialization and deserialization of scala objects to Mongo
+Essential experience:
+
+You should be a Java programmer with a good understanding of Object Orientation	
+You should have basic understanding of relational databases
+
+
+On the Web
+
+http://www.scala-lang.org/ − Scala language official site
+http://www.mongodb.org/ − MongoDB Official site
+http://www.scala-sbt.org/ − Official site of the Simple Build Tool, or SBT for short
+http://api.mongodb.org/scala/casbah/2.0/ − Casbah documentation site
+https://github.com/novus/salat − Github project and documentation for Salat
+http://www.codecommit.com/blog/scala/scala-for-java-refugees-part-1 − Excellent Scala tutorial for Java programmers
+
+About the author
+Pablo is co-founder of Ciris Informatic Solutions. He got his degree in Systems Engineering in 2008 and began his career as a Java programmer at GBSYS in outsourced projects for the University of Costa Rica. In this company, Pablo introduced several technologies and methodologies; the most notably, Scrum.
+
+He discovered Scala in 2009 and started programming with this language in just a year. Given that Pablo has been a Linux user for several years, he shares many ideologies and views of the open source world. In 2011, he decides to quit GBSYS to start his own company –Ciris Informatic Solutions. Later that same year, Ciris developed a search query software named Contact506. More than 40 different companies rely on it daily across the country.
+
+http://www.ciriscr.com
